@@ -1,0 +1,16 @@
+Azure DevOps Terraform: https://www.jeanpaulsmit.com/2020/03/terraform-deploy-apim/
+
+1. Create APIM Resources with Terraform Resources:
+a. Download: https://developer.hashicorp.com/terraform/downloads
+b. Cofiguration: https://learn.microsoft.com/en-us/azure/developer/terraform/get-started-cloud-shell-bash?tabs=bash
+c. Implementaion: https://learn.microsoft.com/en-us/azure/api-management/quickstart-terraform?tabs=azure-cli
+d. Git repo: https://github.com/Azure/terraform/tree/master/quickstart/101-azure-api-management-create
+
+2. Update existing APIM terraform Resorces:
+a. azure portal: https://stackoverflow.com/questions/75368737/using-terraform-to-update-existing-azure-apim
+
+3. Add existing API to APIM:
+a. API operation: https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/api_management_api_operation
+
+4. Update Existing API to APIM: 
+a. https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/api_management_api_operation_policy
